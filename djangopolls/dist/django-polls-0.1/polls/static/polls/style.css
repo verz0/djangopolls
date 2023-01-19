@@ -1,0 +1,17 @@
+
+li a {
+    color: black;
+}
+
+body {
+    background: white url("images/a.png") no-repeat;
+}
+
+body {
+  
+  background-image: url('images/b.jpg') !important;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
